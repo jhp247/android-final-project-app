@@ -1,8 +1,8 @@
 1. Your name and netid: Jason Park, jhp247
-2. Github link to your app:
-3. What problem is your app trying to address and what are the main features of the app?:
+2. Github link to your app: https://github.com/jhp247/android-final-project-app
+3. What problem is your app trying to address and what are the main features of the app?: The main purpose of my app is to help college students or anyone living alone to cook. Because not a lot of people who live alone know how to cook but often have remaining ingredients left over in the fridge, I thought this app would help them utilize those leftover ingredients and follow a recipe that the app displays. It allows you to search whatever keyword of a menu you are looking for, then it shows specific information about how many calories the food may contain, the other ingredients that you may need, and a link to various instructions on cooking those meals.
 4. Which aspect of your app are you most proud of? (ie. complex feature or aesthetic UI
-component):
+component): I was very proud of my search fragment because it accumulated many materials we learned in class, like fragments, understanding the information that the api provides, and parsing those json files to use the information I want. Combining all of them really made me feel like classes have come to an end, and I personally felt like I've made an achievement attempting to combine all the accumulated knowledge from this class when building this fragment.
 5. What are some of the challenges you faced while building the app and how did you go about
-resolving them?:
-6. If you had more time, what would you do to improve your app?:
+resolving them?: The part I was challenged the most was the part I'm the poudest about; this is because even just trying to figure out the api of edamam.com works and applying to fragments in a RecyclerView made me consume a heavy load of time. Some other challenges included learning briefly about using databases like MySQL outside of class through youtube and googling because not only did it take a while to learn it, it also took some time trying to use it specifically for the application I'm building.
+6. If you had more time, what would you do to improve your app?: Not only would I find a way to apply an aesthetic UI component to make the app look more user friendly, I would've also wanted to spend more time studying the structure of the various json files edamam.com, the api I used, to show even more information about the menu when the recipe page opens up, like how much time you need to spend or what allergies users must be mindful of. 
